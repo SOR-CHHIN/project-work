@@ -21,3 +21,15 @@ button{
 p{
     color: gray;
 }
+.images{
+
+    width: 50%;
+    margin-right: 100%;
+    
+
+}
+.phone{
+    width:100px;
+    margin-left:250px;
+    margin-top:0px;
+}
